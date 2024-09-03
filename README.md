@@ -1,6 +1,6 @@
 # snake1
 
-**Introduction
+## Introduction
 
 It is an snake example
 
